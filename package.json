@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "qaz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilnur-tages/qaz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilnur-tages/qaz/issues"
+  },
+  "homepage": "https://github.com/ilnur-tages/qaz#readme",
+  "dependencies": {
+    "@zxing/library": "^0.19.1"
+  }
+}
